@@ -98,7 +98,12 @@ This project has been developed exclusively for educational purposes and is subm
 🧑‍💻 Author
 
 Niloufar zohdy tale
+
+Mani vazirpour
+
+=======
 fatemeh salmani amand
+
 ⸻
 
 📄 License
